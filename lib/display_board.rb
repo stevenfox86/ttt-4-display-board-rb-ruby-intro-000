@@ -8,5 +8,5 @@ def display_board
   puts "   |   |   "
 end
 
-board = [" ", " ", " ", " ", "", " ", " ", " ", " ",]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 display_board(board)
