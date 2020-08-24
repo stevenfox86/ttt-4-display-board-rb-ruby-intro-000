@@ -8,6 +8,6 @@ def display_board
   puts "   |   |   "
 end
 
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " ",]
 
 display_board(board)
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " ",]
