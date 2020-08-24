@@ -9,5 +9,4 @@ def display_board
 end
 
 
-display_board(board)
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " ",]
+display_board
